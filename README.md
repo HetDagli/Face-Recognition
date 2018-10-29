@@ -8,6 +8,7 @@ Built using dlib's state-of-art face recognition made with deep learning.
   * Dlib
   * OpenCV
 ## Running
-  * For one shot training run train_by_image.py,enter person's name, and click enter
-  * For testing open main.py
-  * For testing a video, use test_video.py
+  * For one shot training run train_by_image.py,enter person's name, and click enter.
+  * For testing open main.py.
+  * For testing a video, use test_video.py.
+  * Use tkinter_gui.py for graphical user interface.
