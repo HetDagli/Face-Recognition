@@ -5,7 +5,7 @@ import glob
 import cv2
 predictor_url="shape_predictor_68_face_landmarks.dat"
 recog_model_url="dlib_face_recognition_resnet_model_v1.dat"
-to_recog="/home/shubham/Documents/project/Final_project/data/"
+to_recog="data/"
 label_name=raw_input("Enter name of person: ")
 detector=dlib.get_frontal_face_detector()
 sp=dlib.shape_predictor(predictor_url)
