@@ -1,0 +1,4 @@
+Histogram of gradients.
+face frontalisation
+feature extraction using deep learning
+a 128 dimensional feature vector is formed
